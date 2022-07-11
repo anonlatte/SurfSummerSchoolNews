@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NatGeo</string>
+    <string name="content_empty_news">Didn\'t get any news</string>
+    <string name="hint_search_news">Find news</string>
+    <string name="error_while_navigation">Received error on navigation</string>
+    <string name="placeholder_news_search">Найти новости</string>
+    <string name="menu_title_search">Поиск</string>
+</resources>
